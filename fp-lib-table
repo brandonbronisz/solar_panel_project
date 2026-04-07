@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "solar_cells") (type "KiCad") (uri "${KIPRJMOD}/solar_cells.pretty") (options "") (descr ""))
+)

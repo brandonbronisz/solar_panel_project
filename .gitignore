@@ -1,0 +1,27 @@
+# macOS and editor clutter
+.DS_Store
+.history/
+
+# KiCad local state
+*.kicad_prl
+fp-info-cache
+
+# KiCad lock files
+*.lck
+~*.kicad_pro.lck
+
+# KiCad backups and autosaves
+*-backups/
+*-save.kicad_pro
+*_autosave-*.kicad_sch
+*_autosave-*.kicad_pcb
+*.bak
+
+# Generated fabrication output
+gerber/
+gerber.zip
+*.gbr
+*.gbrjob
+*.drl
+*.gm1
+*.rpt
